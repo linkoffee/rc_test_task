@@ -10,4 +10,12 @@
 
 ---
 
+> [!NOTE]
+> Образец заполнения файла `.env` можно посмотреть в [`.env.example`](https://github.com/linkoffee/rc_test_task/blob/main/.env.example)
+
+> [!NOTE]
+> Файлы json сохраняются в директорию `saved_data/` в корень проекта
+
+---
+
 Author: [Mikhail Kopochinskiy](https://github.com/linkoffee)
